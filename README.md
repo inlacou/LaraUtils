@@ -1,5 +1,7 @@
 # LaraUtils
 
+[![](https://jitpack.io/v/inlacou/LaraUtils.svg)](https://jitpack.io/#inlacou/LaraUtils)
+
 Add this to AndroidManifest.xml, into the application tag:
 ```xml
 <activity android:name="com.inlacou.larautils.DummyAct"/>
